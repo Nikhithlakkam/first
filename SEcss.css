@@ -1,0 +1,15 @@
+body {
+    background-image: url("https://img.freepik.com/premium-photo/dark-street-wet-asphalt-reflections-rays_129911-2291.jpg");
+    background-size: cover;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+input:focus
+{
+  border:5px solid rgb(36, 1, 6);
+  box-shadow:10px 10px 10px black;
+  color:blue;
+  width:300px;
+}
